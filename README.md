@@ -1,13 +1,6 @@
-# Template: Standard Robot Framework
+# Full code for quiz certification on Robocorp Level II
 
-This is the simplest template to start from.
-
-- Get started from a simple task template in `tasks.robot`.
-  - Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- You can configure your robot `robot.yaml`.
-- You can configure dependencies in `conda.yaml`.
-
-## Learning materials
+## Based on
 
 - [Robocorp Developer Training Courses](https://robocorp.com/docs/courses)
 - [Documentation links on Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
